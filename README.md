@@ -38,13 +38,13 @@ The Project was created with:
 
 ## Screenshots
 
-![Alt text]()
+![Alt text](https://github.com/Case1440/probable-couscous/blob/main/Screenshot%202023-11-18%20004912.png)
 
-![Alt text]()
+![Alt text](https://github.com/Case1440/probable-couscous/blob/main/Screenshot%202023-11-18%20004921.png)
 
-![Alt text]()
+![Alt text](https://github.com/Case1440/probable-couscous/blob/main/Screenshot%202023-11-18%20004942.png)
 
-![Alt text]()
+![Alt text](https://github.com/Case1440/probable-couscous/blob/main/Screenshot%202023-11-18%20005002.png)
 
 ## Summary
 
