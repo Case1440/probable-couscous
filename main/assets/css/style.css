@@ -1,0 +1,85 @@
+*, body {
+    padding: 0;
+    margin: 0;
+    font-size: 110%;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding: 10px 30px;
+    color: white;
+    background-color: blue;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.intro {
+    text-align: center;
+    margin-top: 25vh;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.choices{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100vw;
+    align-items: center;
+
+    
+}
+.quiz{
+    text-align: center;
+}
+
+.choices button{
+background-color: blue;
+width: 30vw;
+margin: 5px 0;
+border-radius: 10px;
+padding: 5px;
+
+
+}
+
+.intro h1, .intro h3 {
+    margin-bottom: 10px;
+   
+}
+
+
+    
+
+
+
+.intro button {
+    
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+ 
+}
+
+.intro button:hover {
+    cursor: pointer;
+    transform: scale(1.075);
+    transition: .5s;
+}
+
+
+
+.highscore{
+flex-direction: center;
+}
+
+.end {
+    margin-left: 10px;
+}
